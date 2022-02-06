@@ -1,0 +1,1 @@
+initSidebarItems({"derive":[["Handleable","Custom derive functionality for the `gui::Handleable` trait."],["Widget","Custom derive functionality for the `gui::Widget` trait."]]});

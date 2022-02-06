@@ -1,0 +1,13 @@
+/Users/joshkersey/Desktop/dev/rust/cargo-crash-course/target/debug/deps/gui-5332b894c5a798c0.rmeta: /Users/joshkersey/.cargo/registry/src/github.com-1ecc6299db9ec823/gui-0.6.0/src/lib.rs /Users/joshkersey/.cargo/registry/src/github.com-1ecc6299db9ec823/gui-0.6.0/src/handleable.rs /Users/joshkersey/.cargo/registry/src/github.com-1ecc6299db9ec823/gui-0.6.0/src/mergeable.rs /Users/joshkersey/.cargo/registry/src/github.com-1ecc6299db9ec823/gui-0.6.0/src/object.rs /Users/joshkersey/.cargo/registry/src/github.com-1ecc6299db9ec823/gui-0.6.0/src/placeholder.rs /Users/joshkersey/.cargo/registry/src/github.com-1ecc6299db9ec823/gui-0.6.0/src/renderable.rs /Users/joshkersey/.cargo/registry/src/github.com-1ecc6299db9ec823/gui-0.6.0/src/renderer.rs /Users/joshkersey/.cargo/registry/src/github.com-1ecc6299db9ec823/gui-0.6.0/src/ui.rs /Users/joshkersey/.cargo/registry/src/github.com-1ecc6299db9ec823/gui-0.6.0/src/widget.rs
+
+/Users/joshkersey/Desktop/dev/rust/cargo-crash-course/target/debug/deps/gui-5332b894c5a798c0.d: /Users/joshkersey/.cargo/registry/src/github.com-1ecc6299db9ec823/gui-0.6.0/src/lib.rs /Users/joshkersey/.cargo/registry/src/github.com-1ecc6299db9ec823/gui-0.6.0/src/handleable.rs /Users/joshkersey/.cargo/registry/src/github.com-1ecc6299db9ec823/gui-0.6.0/src/mergeable.rs /Users/joshkersey/.cargo/registry/src/github.com-1ecc6299db9ec823/gui-0.6.0/src/object.rs /Users/joshkersey/.cargo/registry/src/github.com-1ecc6299db9ec823/gui-0.6.0/src/placeholder.rs /Users/joshkersey/.cargo/registry/src/github.com-1ecc6299db9ec823/gui-0.6.0/src/renderable.rs /Users/joshkersey/.cargo/registry/src/github.com-1ecc6299db9ec823/gui-0.6.0/src/renderer.rs /Users/joshkersey/.cargo/registry/src/github.com-1ecc6299db9ec823/gui-0.6.0/src/ui.rs /Users/joshkersey/.cargo/registry/src/github.com-1ecc6299db9ec823/gui-0.6.0/src/widget.rs
+
+/Users/joshkersey/.cargo/registry/src/github.com-1ecc6299db9ec823/gui-0.6.0/src/lib.rs:
+/Users/joshkersey/.cargo/registry/src/github.com-1ecc6299db9ec823/gui-0.6.0/src/handleable.rs:
+/Users/joshkersey/.cargo/registry/src/github.com-1ecc6299db9ec823/gui-0.6.0/src/mergeable.rs:
+/Users/joshkersey/.cargo/registry/src/github.com-1ecc6299db9ec823/gui-0.6.0/src/object.rs:
+/Users/joshkersey/.cargo/registry/src/github.com-1ecc6299db9ec823/gui-0.6.0/src/placeholder.rs:
+/Users/joshkersey/.cargo/registry/src/github.com-1ecc6299db9ec823/gui-0.6.0/src/renderable.rs:
+/Users/joshkersey/.cargo/registry/src/github.com-1ecc6299db9ec823/gui-0.6.0/src/renderer.rs:
+/Users/joshkersey/.cargo/registry/src/github.com-1ecc6299db9ec823/gui-0.6.0/src/ui.rs:
+/Users/joshkersey/.cargo/registry/src/github.com-1ecc6299db9ec823/gui-0.6.0/src/widget.rs:
