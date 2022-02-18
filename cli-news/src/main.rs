@@ -32,7 +32,9 @@ fn get_articles(url: &str) -> Result<Articles, Box<dyn Error>> {
 
 fn render_articles(articles: &Articles) {
     for i in &articles.articles {
-        dark_green!("> {}\n", i.title);
-        yellow!("> {}\n\n", i.url);
+        // dark_green!("> {:20}\n", );
+        let text_width = 120;
+        dark_green!("> {}\n", textwrap::fill(&i.title, text_width));
+        yellow!("> {}\n\n", textwrap::fill(&i.url, text_width));
     }
 }

@@ -1,0 +1,1 @@
+/Users/joshkersey/Desktop/dev/rust/cli-news-refactored/target/debug/cli-news: /Users/joshkersey/Desktop/dev/rust/cli-news-refactored/newsapi/src/lib.rs /Users/joshkersey/Desktop/dev/rust/cli-news-refactored/src/main.rs /Users/joshkersey/Desktop/dev/rust/cli-news-refactored/src/theme.rs
