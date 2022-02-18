@@ -1,3 +1,5 @@
+#![allow(warnings)]
+
 use colour::{dark_green, yellow};
 use serde::Deserialize;
 use std::error::Error;
@@ -25,6 +27,7 @@ fn main() -> Result<(), Box<dyn Error>> {
 
 fn get_articles(url: &str) -> Result<Articles, Box<dyn Error>> {
     let response = ureq::get(url).call()?.into_string()?;
+    println!("{}", response);
     let articles: Articles = serde_json::from_str(&response)?;
 
     Ok(articles)

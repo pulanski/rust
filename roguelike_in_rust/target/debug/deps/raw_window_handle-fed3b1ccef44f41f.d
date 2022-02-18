@@ -1,0 +1,6 @@
+/Users/joshkersey/Desktop/dev/rust/roguelike_in_rust/target/debug/deps/raw_window_handle-fed3b1ccef44f41f.rmeta: /Users/joshkersey/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.3.4/src/lib.rs /Users/joshkersey/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.3.4/src/macos.rs
+
+/Users/joshkersey/Desktop/dev/rust/roguelike_in_rust/target/debug/deps/raw_window_handle-fed3b1ccef44f41f.d: /Users/joshkersey/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.3.4/src/lib.rs /Users/joshkersey/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.3.4/src/macos.rs
+
+/Users/joshkersey/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.3.4/src/lib.rs:
+/Users/joshkersey/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.3.4/src/macos.rs:

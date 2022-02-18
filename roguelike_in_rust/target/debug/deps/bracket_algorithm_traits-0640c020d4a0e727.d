@@ -1,0 +1,10 @@
+/Users/joshkersey/Desktop/dev/rust/roguelike_in_rust/target/debug/deps/bracket_algorithm_traits-0640c020d4a0e727.rmeta: /Users/joshkersey/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.2/src/lib.rs /Users/joshkersey/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.2/src/algorithm2d.rs /Users/joshkersey/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.2/src/algorithm3d.rs /Users/joshkersey/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.2/src/basemap.rs
+
+/Users/joshkersey/Desktop/dev/rust/roguelike_in_rust/target/debug/deps/libbracket_algorithm_traits-0640c020d4a0e727.rlib: /Users/joshkersey/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.2/src/lib.rs /Users/joshkersey/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.2/src/algorithm2d.rs /Users/joshkersey/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.2/src/algorithm3d.rs /Users/joshkersey/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.2/src/basemap.rs
+
+/Users/joshkersey/Desktop/dev/rust/roguelike_in_rust/target/debug/deps/bracket_algorithm_traits-0640c020d4a0e727.d: /Users/joshkersey/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.2/src/lib.rs /Users/joshkersey/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.2/src/algorithm2d.rs /Users/joshkersey/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.2/src/algorithm3d.rs /Users/joshkersey/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.2/src/basemap.rs
+
+/Users/joshkersey/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.2/src/lib.rs:
+/Users/joshkersey/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.2/src/algorithm2d.rs:
+/Users/joshkersey/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.2/src/algorithm3d.rs:
+/Users/joshkersey/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.2/src/basemap.rs:

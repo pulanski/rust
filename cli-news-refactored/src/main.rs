@@ -1,4 +1,5 @@
 // use colour::{dark_green, yellow};
+#![allow(unused_variables)]
 use dotenv::dotenv;
 use newsapi::{get_articles, Articles};
 use std::error::Error;

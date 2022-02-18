@@ -1,0 +1,1 @@
+/Users/joshkersey/Desktop/dev/rust/cli-news-library-api-design/julia_rust_interoperability/target/debug/julia_rust_interoperability: /Users/joshkersey/Desktop/dev/rust/cli-news-library-api-design/julia_rust_interoperability/src/main.rs
