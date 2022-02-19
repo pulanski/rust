@@ -13,6 +13,8 @@ async fn test(i: &i32) -> Result<(), Box<dyn std::error::Error + Send + Sync>> {
         .open("test2.csv")
         .unwrap();
     dbg!(&file);
+
+
     let mut wtr = Writer::from_writer(file);
 
     let document = Document::from(response.as_str());
